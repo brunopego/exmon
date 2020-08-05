@@ -14,4 +14,6 @@
 - Se o jogador ou o computador ficarem com 0 de vida, o jogo acaba
     - Se alguém perder, exibir o resultado final, não deve ser exibido que algum jogador ficou com vida negativa
 - O jogador humano poderá escolher o nome do seu personagem, assim como o nome de seus 3 movimentos
-
+- Movimentos:
+    - moderado, variado e cura
+- 100 pontos de vida
